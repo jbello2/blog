@@ -1,3 +1,3 @@
 <b> En el blog</b>		
 
-Cambio hecho por otro desarrollador
+Modificacion: creado un branch remoto
